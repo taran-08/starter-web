@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+     Taranjot Singh    taranjotsingh.loomba@cawstudios.com
 
 # THANKS
 
