@@ -12,6 +12,8 @@ This repository is for showing how Git and GitHub work
 
 ## How to Contribute
 
+Please fork this repository and then issue some review
+
 ###Copyright
 
 2014 git.training extra
