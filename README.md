@@ -8,6 +8,6 @@ This repository is for showing how Git and GitHub work
 
 ## Deployement
  
- This is simple web projectw
+ This is simple web project
 
 ## How to Contribute
