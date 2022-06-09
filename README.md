@@ -11,3 +11,7 @@ This repository is for showing how Git and GitHub work
  This is simple web project
 
 ## How to Contribute
+
+###Copyright
+
+2014 git.training
