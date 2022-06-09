@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work\
 Adding more of text to check up
+Adding text finally 
 
 ## Introduction
 
