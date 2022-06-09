@@ -14,4 +14,4 @@ This repository is for showing how Git and GitHub work
 
 ###Copyright
 
-2014 git.training
+2014 git.training extra
