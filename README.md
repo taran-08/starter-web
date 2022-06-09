@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work\
 Adding more of text to check up
-Adding text finally 
+Adding text finally ,more changes to my feature branch too
 
 ## Introduction
 
