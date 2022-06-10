@@ -18,4 +18,4 @@ Please fork this repository and then issue some review
 
 ###Copyright
 
-2014 git.training extra
+2014 git.training extra all right reserved
